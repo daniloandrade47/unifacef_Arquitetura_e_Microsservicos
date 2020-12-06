@@ -3,7 +3,7 @@ Exercício realizado durante disciplina da Pós Graduação
 
 ### Aluno: Danilo Andrade :boy:
 
-![linkedin](https://www.linkedin.com/in/daniloandrade47/)
+![linkedin] (https://www.linkedin.com/in/daniloandrade47/)
 
 ### Professor: Kleber :man:
 
