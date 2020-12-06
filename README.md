@@ -17,3 +17,7 @@ Exercício realizado durante disciplina da Pós Graduação
 ## :question: O que você encontrará aqui?
 
 Todo o conteúdo da aula de Arquitetura da Informação e Microsserviços, ministrada pela Unifacef, depto. de Pós-Graduação em desenvolvimento de aplicações web móveis escaláveis.
+
+Você encontrará em cada pasta da atividade, um print que comprova a implementação do código com exito.
+
+Muito Obrigado :)
