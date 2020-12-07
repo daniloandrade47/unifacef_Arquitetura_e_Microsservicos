@@ -5,7 +5,7 @@ Exercício realizado durante disciplina da Pós Graduação
 
 ![linkedin] (https://www.linkedin.com/in/daniloandrade47/)
 
-### Professor: Kleber :man:
+### Professor: Cleber :man:
 
 ![github] (https://github.com/clebercf)
 
